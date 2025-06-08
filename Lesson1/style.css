@@ -1,3 +1,25 @@
 h4{
     color: rgb(255, 0, 55);
 }
+
+h5{
+    color: brown;
+}
+
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.myclass{
+    color: rgb(187, 253, 255);
+}
+
+#myid{
+    color: burlywood;
+}
+
+p,h5{
+    color: chocolate;
+}
+
